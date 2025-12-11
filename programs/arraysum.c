@@ -16,10 +16,7 @@ int main(){
 		}
 		else{
 			printf(",");
-		}	
-		
-		
-		
+		}		
 	}
 	printf("\n");
 	printf("Sum = %d\n",s);
